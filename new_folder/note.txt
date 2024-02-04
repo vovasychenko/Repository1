@@ -1,0 +1,15 @@
+git command - для работы несколький людей (3 урок -+ 40 мин)
+
+
+git status - чекнуть изменения
+git add - добавить изменения на стейдж
+git commit -m - добавить изменения из сиейджа в клммит
+git push - запушить коммит
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vovasychenko/Repository1.git
+git push -u origin main
